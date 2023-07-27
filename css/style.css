@@ -1,0 +1,14 @@
+.btn-1 {
+  background-color: greenyellow;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem 2rem;
+  margin: auto;
+  font-size: 3rem;
+}
+.QUOTE {
+  width: 75%;
+  margin: auto;
+  text-align: center;
+}
